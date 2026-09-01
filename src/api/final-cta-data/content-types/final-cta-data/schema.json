@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "final_cta_datas",
+  "info": {
+    "singularName": "final-cta-data",
+    "pluralName": "final-cta-datas",
+    "displayName": "FINAL_CTA_DATA"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "icons": {
+      "type": "component",
+      "component": "shared.icons",
+      "repeatable": false
+    }
+  }
+}

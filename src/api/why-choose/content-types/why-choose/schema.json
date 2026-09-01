@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "why_chooses",
+  "info": {
+    "singularName": "why-choose",
+    "pluralName": "why-chooses",
+    "displayName": "WHY_CHOOSE"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "string"
+    },
+    "icon": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "why_invest_thanes",
+  "info": {
+    "singularName": "why-invest-thane",
+    "pluralName": "why-invest-thanes",
+    "displayName": "WHY_INVEST_THANE"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "text"
+    },
+    "icon": {
+      "type": "string"
+    }
+  }
+}

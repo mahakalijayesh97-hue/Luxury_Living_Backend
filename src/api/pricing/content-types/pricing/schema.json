@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pricings",
+  "info": {
+    "singularName": "pricing",
+    "pluralName": "pricings",
+    "displayName": "PRICING"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "config": {
+      "type": "string"
+    },
+    "carpetArea": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    },
+    "badge": {
+      "type": "string"
+    },
+    "features": {
+      "type": "string"
+    }
+  }
+}

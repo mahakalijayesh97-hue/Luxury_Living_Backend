@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "construction_steps",
+  "info": {
+    "singularName": "construction-step",
+    "pluralName": "construction-steps",
+    "displayName": "CONSTRUCTION_STEPS"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "phase": {
+      "type": "string"
+    },
+    "statu": {
+      "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "progress": {
+      "type": "string"
+    }
+  }
+}

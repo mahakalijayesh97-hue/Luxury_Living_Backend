@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "trusts",
+  "info": {
+    "singularName": "trust",
+    "pluralName": "trusts",
+    "displayName": "TRUST"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "icon": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
+    },
+    "text": {
+      "type": "string"
+    }
+  }
+}
